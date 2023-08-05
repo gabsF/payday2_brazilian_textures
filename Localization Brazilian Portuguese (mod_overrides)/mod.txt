@@ -4,7 +4,7 @@
 	"author" : "gabsF",
 	"color" : "0 255 17",
 	"contact" : "https://steamcommunity.com/id/gabs_F/",
-	"version" : "r1",
+	"version" : "test1",
 	"blt_version" : 2,
 	"updates" : [
 		{ 

@@ -10,7 +10,7 @@
 		{ 
 			"identifier" : "payday2_translate_brazilian_gabrielfmb_textures",
 			"display_name" : "Texturas visuais traduzidas",
-			"host" : { "meta" : "https://github.com/gabsF/payday2_brazilian_textures/releases/download/pd2translationbrazilian_textures/meta.json", },
+			"host" : { "meta" : "https://github.com/gabsF/payday2_brazilian_textures/releases/download/refs%2Fheads%2Fmaster/meta.json", },
 			"install_dir" : "assets/mod_overrides/",
 			"install_folder" : "Brazilian_Textures",
 		}

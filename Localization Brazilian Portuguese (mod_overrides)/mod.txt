@@ -1,6 +1,6 @@
 {
 	"name" : "Localization Brazilian Portuguese Textures",
-	"description" : "Texturas visuais traduzidas.",
+	"description" : "Texturas visuais traduzidas.:p",
 	"author" : "gabsF",
 	"color" : "0 255 17",
 	"contact" : "https://steamcommunity.com/id/gabs_F/",
